@@ -1,0 +1,1 @@
+export const API_URL = 'http://ip/sevkiyat/api/app.php';
